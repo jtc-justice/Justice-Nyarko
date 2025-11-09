@@ -1,10 +1,10 @@
 
 
-Hi, I'm Justice 👋. I'm an Embedded Systems Engineer and Educator with a passion for architecting complete hardware/software solutions that solve critical problems in healthcare, environmental monitoring, and automation. My work spans from sensor-level firmware to system integration and data analytics, with a focus on reliability and practical application.
+Hi, I'm Justice 👋. I'm an Embedded Systems Engineer and Educator with a passion for architecting complete hardware/software solutions that solve critical problems in healthcare, environmental monitoring, and automation. My work spans from sensor-level integration with a focus on reliability and practical application.
 
 🛠 Technical Toolkit
 
-Programming: C, C++, Python (NumPy, OpenCV), MicroPython, MATLAB/Simulink
+Programming: C, C++, Python (OpenCV), MicroPython, MATLAB/Simulink
 Microcontrollers: STM32 (ARM-Cortex), ESP32/8266 (Xtensa), Arduino (Atmega), Raspberry Pi
 Protocols & comms: I2C, SPI, UART, CAN (TWAI), WiFi, BLE, ESP-NOW
 Hardware Tools: Oscilloscope, Logic Analyzer, JTAG/SWD Debuggers (J-Link, ST-Link)
